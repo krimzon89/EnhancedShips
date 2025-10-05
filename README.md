@@ -1,5 +1,8 @@
-# Unciv-mod-example
+# Enhanced Ships
+A simple mod that makes the late game ships more useful.
 
-An example mod for Unciv, that adds one new Civilization.
+Missile Destroyer: Performs the normal destroyer tasks, and gains the ability to carry missiles
 
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+Arsenal Ship: An upgrade to the Missile Cruiser. Increased stats, and expanded missile capacity.
+
+Supercarrier: An improved Carrier with expanded aircraft capacity
