@@ -1,34 +1,26 @@
-
 game.png
-size: 512, 128
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Breeders
+UnitIcons/Arsenal Ship
   rotate: false
-  xy: 112, 4
-  size: 100, 100
-  orig: 100, 100
+  xy: 580, 788
+  size: 90, 90
+  orig: 90, 90
   offset: 0, 0
   index: -1
-BuildingIcons/Holodeck
+UnitIcons/Missile Destroyer
   rotate: false
-  xy: 220, 4
-  size: 100, 100
-  orig: 100, 100
+  xy: 1266, 494
+  size: 90, 90
+  orig: 90, 90
   offset: 0, 0
   index: -1
-NationIcons/Aliens
+UnitIcons/Supercarrier
   rotate: false
-  xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Phasers
-  rotate: false
-  xy: 328, 4
-  size: 100, 100
-  orig: 100, 100
+  xy: 700, 396
+  size: 90, 90
+  orig: 90, 90
   offset: 0, 0
   index: -1
